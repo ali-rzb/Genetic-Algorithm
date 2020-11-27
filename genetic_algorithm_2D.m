@@ -28,7 +28,7 @@ for y=1:2000
     cost=zeros(chromosome_number,1);
     for i=1:chromosome_number
         if i==50
-           fuck = 'fuck' 
+           error = 'out of range' 
         end
         cost(i,1)=0;
         for j=1:cities-1
