@@ -1,5 +1,7 @@
 # Solving the traveling salesman problem using genetic algorithm
 
+![Untitled Project](https://github.com/ali-rzb/Genetic-Algorithm/assets/63366614/3d6ca6ab-73b4-4a26-871b-2c6bba2ce3dc)
+
 ## General Description of the Program:
 
 ### Initial Settings:
